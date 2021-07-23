@@ -1,7 +1,7 @@
 # proyecto_n2
 proyecto graphql
 
-# Getting Started with Create React App
+# Getting Started
 
 ### `npm install`
 
